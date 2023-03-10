@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985718516703",
+    "firebase_url": "https://dbmoviles-default-rtdb.firebaseio.com",
+    "project_id": "dbmoviles",
+    "storage_bucket": "dbmoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985718516703:android:54f262f989d14a1480b26a",
+        "android_client_info": {
+          "package_name": "com.wilmer.nuwelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985718516703-f991ps66vlh0fnin2ohl838mt7qjlcb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKErNFFvSGJUXd2IDItKMrsKNv1Dh2yC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985718516703-f991ps66vlh0fnin2ohl838mt7qjlcb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
